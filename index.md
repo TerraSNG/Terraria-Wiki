@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Гайд на дюп любых жидкостей жидкостей
 
-You can use the [editor on GitHub](https://github.com/TerraSNG/Terraria-Wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Шаг 1:
+строим такую конструкцию в виде перевёрнутой буквы П над местом где хотим сделать резервуар 
+![1](https://user-images.githubusercontent.com/85753549/160229640-e1ca2296-5135-4c74-9089-5793728c280d.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Шаг 2:
+Кликаем вот на этот блок 1 раз молотом чтоб сделать полублок.
+![2](https://user-images.githubusercontent.com/85753549/160229680-de9fb945-1ade-4d41-a2a4-45a969cf931c.png)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TerraSNG/Terraria-Wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Шаг 3:
+Зажимаем левую кнопку мыши с ведром над полублоком с жидкостью в руке и жидкость будет стекать как в резервуар так и в ведро, если отжать мышь жидкость просто перетечёт в кармашек сбоку в обьёме 1 полного ведра. 
+![3](https://user-images.githubusercontent.com/85753549/160229709-e5b0234b-81a0-4f43-b92b-1330ceafe324.png)
