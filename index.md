@@ -1,6 +1,6 @@
 # Добро пожаловать на Terraria-Wiki !!!!
 
-[custom-terraria-logo](https://user-images.githubusercontent.com/85753549/161287751-51a4f520-0bb1-447f-a5d5-3482476428fc.png)
+![custom-terraria-logo (1)](https://user-images.githubusercontent.com/85753549/163013969-dc01b583-bed9-42b4-a6c6-229215380906.png)
 
 
 
