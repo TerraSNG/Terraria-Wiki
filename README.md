@@ -1,4 +1,7 @@
 # Terraria-Wiki
+![163013969-dc01b583-bed9-42b4-a6c6-229215380906](https://user-images.githubusercontent.com/85753549/163022608-0e555991-f2af-4b5c-bc76-eed946432989.png)
+
+
 Terraria-Wiki - Вики созданное благодаря коммьюнити сервера Террария СНГ.
 
 # Авторы
